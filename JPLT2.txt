@@ -1,0 +1,11 @@
+int s = 6.8;
+int x = 4;
+int q = 8;
+int t = 7 + 4;
+float f = 8.4 * 7.1;
+float e1 = 3;
+int g = 8.9;
+System.out.println(" بشمهندس عبد الرحمن " );
+System.out.println("sum is" );
+System.out.println(q);
+System.out.println("sama" + y );

@@ -1,0 +1,11 @@
+in s = 6.8 #
+in x = 4 #
+in q = 8 #
+in t = 7 sum 4 #
+fl f = 8.4 mul 7.1 #
+fl e1 = 3 # 
+in g = 8.9 #
+print " بشمهندس عبد الرحمن " #
+print "sum is" # 
+print +q #
+print "sama" + y #
